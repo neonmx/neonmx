@@ -3,7 +3,7 @@
 
 ![https://github.com/neonmx](./Yo-baner.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/neonmx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/neonmx?style=social)](https://twitter.com/neonmx)
 
 Desarrollador de proyectos de TI Full Stack centrado en soluciones con más de 18 años de experiencia en el desarrollo y liderazgo de proyectos de tecnología desde el diseño hasta la implementación. Con experiencia en el diseño de herramientas personalizadas, administración y desarrollo de extremo a extremo.
 
