@@ -1,7 +1,11 @@
-# ![https://neonmx.com](https://raw.githubusercontent.com/neonmx/neonmx/master/Yo-icon.png) 
-### Freelance full-stack Web/App developer
+# ![https://neonmx.com](https://raw.githubusercontent.com/neonmx/neonmx/master/Yo-icon.png) Hola, soy Álvaro Martz 👋
+### Freelance Fullstack Web/App developer
 
 ![https://github.com/neonmx](./Yo-baner.png)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/neonmx)
+
+Desarrollador de proyectos de TI Full Stack centrado en soluciones con más de 18 años de experiencia en el desarrollo y liderazgo de proyectos de tecnología desde el diseño hasta la implementación. Con experiencia en el diseño de herramientas personalizadas, administración y desarrollo de extremo a extremo.
 
 <!--
 **neonmx/neonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
