@@ -1,4 +1,7 @@
-## Hi there 👋
+# ![https://neonmx.com](https://raw.githubusercontent.com/neonmx/neonmx/master/Yo-icon.png) 
+### Freelance full-stack Web/App developer
+
+![https://github.com/neonmx](./Yo-baner.png)
 
 <!--
 **neonmx/neonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
