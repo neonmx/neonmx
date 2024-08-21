@@ -1,7 +1,7 @@
 # ![https://neonmx.com](https://raw.githubusercontent.com/neonmx/neonmx/master/Yo-icon.png) Hola, soy Álvaro Martz 👋
 ### Freelance Fullstack Web/App developer
 
-![https://github.com/neonmx](./Yo-baner-3b.png)
+![https://github.com/neonmx](./Yo-baner-3c.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/neonmx?style=social)](https://twitter.com/neonmx)
 
