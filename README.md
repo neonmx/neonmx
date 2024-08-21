@@ -7,6 +7,10 @@
 
 Desarrollador de proyectos de TI Full Stack centrado en soluciones con más de 18 años de experiencia en el desarrollo y liderazgo de proyectos de tecnología desde el diseño hasta la implementación. Con experiencia en el diseño de herramientas personalizadas, administración y desarrollo de extremo a extremo.
 
+### Algunas empresas con las que colaboré en algo!
+
+![https://github.com/neonmx](./Yo-baner-empresas.png)
+
 <!--
 **neonmx/neonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
