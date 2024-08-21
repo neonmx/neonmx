@@ -9,7 +9,7 @@ Desarrollador de proyectos de TI Full Stack centrado en soluciones con más de 1
 
 ### Algunas empresas con las que colaboré en algo!
 
-![https://github.com/neonmx](./Yo-baner-empresas.png)
+![https://github.com/neonmx](./Yo-baner-empresas-2.png)
 
 <!--
 **neonmx/neonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
